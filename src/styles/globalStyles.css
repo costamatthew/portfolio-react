@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  vertical-align: baseline;
+  list-style: none;
+  border: 0;
+
+  box-sizing: border-box;
+}
+
+:root {
+    --white: #fff
+    --black: #000
+    --gray-light: #3c3b3d
+    --gray: #323133
+    --gray-dark: #181818
+    --gray-dark-2: #191919
+    --blue-light: #64b5f6
+    --blue-main: #2196f3
+    --blue-dark: #1976d2
+}
+
+html {
+  font-family: "Lato", "Roboto", "Open Sans", sans-serif;
+}
